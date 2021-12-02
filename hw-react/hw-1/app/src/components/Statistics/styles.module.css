@@ -1,0 +1,28 @@
+.statistics {
+    margin: 0;
+    padding: 0;
+    list-style: none;
+    display: flex;
+    background: #dbdbdf;
+    border-top: 1px solid #b4b4b4;
+}
+
+.statistics > li {
+    width: calc(100% / 3);
+    padding: 5px;
+    border-left: 1px solid #b4b4b4;
+}
+
+.statistics > li:first-child {
+    border: 0;
+}
+
+.title {
+    display: block;
+    margin-bottom: 5px;
+}
+
+.num {
+    display: block;
+    color: #000;
+}
