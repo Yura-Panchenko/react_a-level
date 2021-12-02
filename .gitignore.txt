@@ -1,7 +1,0 @@
-.idea/
-.idea
-*.idea
-*.sublime*
-.vscode
-input
-node_modules/
