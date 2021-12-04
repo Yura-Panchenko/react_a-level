@@ -21,3 +21,13 @@
 npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
+
+.idea/
+.idea
+*.idea
+*.sublime*
+.vscode
+input
+node_modules/
+lesson_home
+lesson
